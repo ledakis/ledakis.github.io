@@ -1,7 +1,8 @@
   title: Theo
+  headertext: theo
   description: jekyl testing
   name: Theo
   markdown: kramdown
-  permalink: /blog/:year/:month/:day/:title
+  permalink: /blog/:short_year/:i_month/:i_day/:title
   timezone: Europe/London
   theme: jekyll-theme-hacker
