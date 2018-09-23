@@ -6,3 +6,5 @@
   permalink: /blog/:short_year/:i_month/:i_day/:title
   timezone: Europe/London
   theme: jekyll-theme-hacker
+  plugins:
+  - jekyll-sitemap
