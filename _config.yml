@@ -1,4 +1,5 @@
-	name: Theo
+  name: Theo
   markdown: kramdown
   permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-hacker
+  timezone: Europe/London
+  theme: jekyll-theme-hacker
