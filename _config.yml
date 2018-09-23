@@ -1,3 +1,5 @@
+  title: Theo
+  description: jekyl testing
   name: Theo
   markdown: kramdown
   permalink: /blog/:year/:month/:day/:title
