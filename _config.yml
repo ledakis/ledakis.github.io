@@ -1,3 +1,5 @@
-	name: Theo
+  name: Theo
   markdown: kramdown
   permalink: /blog/:year/:month/:day/:title
+  timezone: Europe/London
+  
