@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            theo
 tagline:          notes
 description:      jekyll testing
-url:              https://github.com/ledakis
-baseurl:          https://ledakis.com/
+url:              https://ledakis.com
+baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
