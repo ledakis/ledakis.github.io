@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            theo's notes
-tagline:          
+title:            theo
+tagline:          notes
 description:      jekyll testing
 url:              https://github.com/ledakis
 baseurl:          https://ledakis.com/
