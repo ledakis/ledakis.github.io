@@ -14,6 +14,7 @@ baseurl:          /
 author:
   name:           Theocharis Ledakis
   url:            https://twitter.com/tledakis
+  email:          info@mail.ledakis.com
 
 paginate:         5
 # paginate_path:    '/page:num'
