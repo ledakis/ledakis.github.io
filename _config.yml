@@ -1,10 +1,32 @@
-  title: Theo
-  headertext: theo
-  description: jekyl testing
-  name: Theo
-  markdown: kramdown
-  permalink: /blog/:short_year/:i_month/:i_day/:title
-  timezone: Europe/London
-  theme: jekyll-theme-hacker
-  plugins:
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:            theo's notes
+tagline:          
+description:      jekyll testing
+url:              https://github.com/karloespiritu/blackdoc
+baseurl:          /
+                  # the optional subpath of your site, e.g. "/my-jekyll-site/"
+                  # This will apply to all pages in your Jekyll site.
+
+author:
+  name:           Theocharis Ledakis
+  url:            https://twitter.com/tledakis
+
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/my-jekyll-site/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
   - jekyll-sitemap
+
+# Custom vars
+version:            2.0.1
+
+github:
+  repo:             https://github.com/karloespiritu/blackdoc
