@@ -7,7 +7,7 @@ title:            theo's notes
 tagline:          
 description:      jekyll testing
 url:              https://github.com/ledakis
-baseurl:          https://ledakis.com
+baseurl:          https://ledakis.com/
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
