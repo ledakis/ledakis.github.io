@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            theo's notes
 tagline:          
 description:      jekyll testing
-url:              https://github.com/karloespiritu/blackdoc
-baseurl:          /
+url:              https://github.com/ledakis
+baseurl:          https://ledakis.com
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
@@ -29,4 +29,4 @@ plugins:
 version:            2.0.1
 
 github:
-  repo:             https://github.com/karloespiritu/blackdoc
+  repo:             https://github.com/ledakis/ledakis.github.io
